@@ -10,6 +10,8 @@
 
 [![License](https://img.shields.io/badge/LICENSE-MIT-4c8bf5?style=flat-square&labelColor=333)](./LICENSE)
 [![Version](https://img.shields.io/badge/VERSION-1.0.0-2ea44f?style=flat-square&labelColor=333)]()
+[![流程](https://img.shields.io/badge/FLOWS-5-2ea44f?style=flat-square&labelColor=333)]()
+[![JD Prep](https://img.shields.io/badge/JD_PREP-TOP_20-e37f2c?style=flat-square&labelColor=333)]()
 [![Stars](https://img.shields.io/github/stars/yanliudesign/behavior-question-skill?style=flat-square&label=STARS&color=e37f2c&labelColor=333)](https://github.com/yanliudesign/behavior-question-skill/stargazers)
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-d97757?style=flat-square&labelColor=1a1a1a&logo=anthropic&logoColor=white)](https://claude.ai/code)
